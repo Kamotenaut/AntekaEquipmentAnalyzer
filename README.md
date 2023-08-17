@@ -4,7 +4,7 @@ Permission was asked before creating the branch. Changes on this are primarily f
 
 It does generally work better on higher resolutions.
 
-You can find the latest builds under [Releases](https://github.com/cjAnteka/AntekaGearAnalyzer/releases).
+You can find the the original latest builds under [Releases](https://github.com/cjAnteka/AntekaGearAnalyzer/releases).
 
 ## Known Issues
 * Doesn't currently support i88 or i90 gear
