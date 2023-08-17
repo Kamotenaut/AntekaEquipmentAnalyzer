@@ -1,5 +1,6 @@
 # Anteka's Gear Analyzer
-A kinda slow but fast enough gear analyzer for EpicSeven.
+Revision on an existing application created by cjAnteka (github)/FourFangedCow#2947.
+Permission was asked before creating the branch. Changes on this are primarily for the updates E7 have created be it for the Google Play Beta/Android
 
 It does generally work better on higher resolutions.
 
@@ -22,5 +23,3 @@ Go to the enhance page of any piece of gear and click the big "Check" button.
 
 ## Something Went Wrong!
 If you encounter an exception or crash, please open an issue with the trimmed image of the item you were attempting to analyze attached. It can be found under: `AntekaEquipmentAnalyzer\images\raw_screen_trimmed.png`
-
-Alternatively, you can send it to me on Discord @ FourFangedCow#2947.
